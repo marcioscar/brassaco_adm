@@ -164,6 +164,7 @@ config.yaml
 *.yaml
 !docker-compose.yaml
 !stack.yaml
+credentials.json
 
 # Comprovantes e uploads
 comprovantes/
